@@ -5,6 +5,7 @@
 # Sets up the data input into lists and runs program
 def main():
 
+# trying something 
     file1 = open("pdf.txt", 'r')
     bird_array = dict()
     plane_array = dict()
